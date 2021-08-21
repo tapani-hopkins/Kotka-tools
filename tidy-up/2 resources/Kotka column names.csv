@@ -1,0 +1,12 @@
+name,plaintext
+MYObjectID,id
+MYGathering[0][MYUnit][0][MYSex],sex
+MYGathering[0][MYUnit][0][MYIdentification][0][MYTaxon],taxon
+MYGathering[0][MYCollectingEventName],event
+MYGathering[0][MYDateBegin],start
+MYGathering[0][MYDateEnd],end
+MYGathering[0][MYLatitude],lat
+MYGathering[0][MYLongitude],lon
+MYGathering[0][MYAlt],ele
+MYGathering[0][MYCoordinateNotes],coordinateNotes
+MYLabelsVerbatim,label

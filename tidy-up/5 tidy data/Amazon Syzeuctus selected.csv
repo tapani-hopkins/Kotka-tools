@@ -1,0 +1,337 @@
+"id","sex","taxon","event","lat","lon","ele","coordinateNotes","label","start","end","sample","trap","site","NA"
+"10205","M","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 16.11-1.12.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI A2/7 232",1998-11-16,1998-12-01,"a2-7","a2","clay","Amazon 1998"
+"10206","M","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 16.11-1.12.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI A2/7 102",1998-11-16,1998-12-01,"a2-7","a2","clay","Amazon 1998"
+"10207","M","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 16.10-1.11.1998, clayish soil I.E.S., R.J. et al. leg. Malaise t., APHI A1/5 114
+23
+99. [or 66?]",1998-10-16,1998-11-01,"a1-5","a1","clay","Amazon 1998"
+"10208","M","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 16.10-1.11.1998, clayish soil I.E.S., R.J. et al. leg. Malaise t., APHI A1/5 074
+23
+87",1998-10-16,1998-11-01,"a1-5","a1","clay","Amazon 1998"
+"10209","M","Syzeuctus sp3","Amazon 1998","","","","","24
+PERU, Dept. of Loreto Iquitos area, Mishana 16.10-1.11.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI A2/5 276
+89 [or 68?]",1998-10-16,1998-11-01,"a2-5","a2","clay","Amazon 1998"
+"10210","M","Syzeuctus sp3","Amazon 1998","","","","","24
+PERU, Dept. of Loreto Iquitos area, Mishana 16.10-1.11.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI A2/5 277
+85",1998-10-16,1998-11-01,"a2-5","a2","clay","Amazon 1998"
+"10211","M","Syzeuctus sp3","Amazon 1998","","","","","27
+PERU, Dept. of Loreto Iquitos area, Mishana 16.12-1.1.1999, clay I.E.S., R.J. et al. leg. Malaise t., APHI A1/9 318
+98. [or 86?]",1998-12-16,1999-01-01,"a1-9","a1","clay","Amazon 1998"
+"10212","M","Syzeuctus sp3","Amazon 1998","","","","","27
+PERU, Dept. of Loreto Iquitos area, Mishana 16.12-1.1.1999, clay I.E.S., R.J. et al. leg. Malaise t., APHI A1/9 316
+92",1998-12-16,1999-01-01,"a1-9","a1","clay","Amazon 1998"
+"10213","M","Syzeuctus sp3","Amazon 1998","","","","","27
+PERU, Dept. of Loreto Iquitos area, Mishana 16.12-1.1.1999, clay I.E.S., R.J. et al. leg. Malaise t., APHI A1/9 319
+88",1998-12-16,1999-01-01,"a1-9","a1","clay","Amazon 1998"
+"10214","M","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 16.12-1.1.1999, clay I.E.S., R.J. et al. leg. Malaise t., APHI A1/9 167",1998-12-16,1999-01-01,"a1-9","a1","clay","Amazon 1998"
+"10215","M","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.12.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI A1/8 359",1998-12-01,1998-12-16,"a1-8","a1","clay","Amazon 1998"
+"10216","M","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.12.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI A1/8 217",1998-12-01,1998-12-16,"a1-8","a1","clay","Amazon 1998"
+"10217","M","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.12.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI A1/8 123",1998-12-01,1998-12-16,"a1-8","a1","clay","Amazon 1998"
+"10218","M","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.12.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI A1/8 156",1998-12-01,1998-12-16,"a1-8","a1","clay","Amazon 1998"
+"10219","M","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 16.11-1.12.1998, clayish soil I.E.S., R.J. et al. leg. Malaise t., APHI A1/7 087",1998-11-16,1998-12-01,"a1-7","a1","clay","Amazon 1998"
+"10220","M","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.12.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI A2/8 240",1998-12-01,1998-12-16,"a2-8","a2","clay","Amazon 1998"
+"10221","M","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 16.12.1998-1.1.1999, clay Malaise trap UTU-ART leg. APIH A2/9 302
+17
+86 [or 98?]",1998-12-16,1999-01-01,"a2-9","a2","clay","Amazon 1998"
+"10222","M","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 16.11-1.12.1998, varillal I.E.S., R.J. et al. leg. Malaise t., APHI B2/7 091
+19
+93",1998-11-16,1998-12-01,"b2-7","b2","sand","Amazon 1998"
+"10223","M","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 16.11-1.12.1998, varillal I.E.S., R.J. et al. leg. Malaise t., APHI B2/7 016
+19
+94",1998-11-16,1998-12-01,"b2-7","b2","sand","Amazon 1998"
+"10224","M","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.11.1998, varillal I.E.S., R.J. et al. leg. Malaise t., APHI B2/6 035",1998-11-01,1998-11-16,"b2-6","b2","sand","Amazon 1998"
+"10225","M","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 4-18.9.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI C2/2 061",1998-09-04,1998-09-18,"c2-2","c2","clay","Amazon 1998"
+"10226","M","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 17.12-20.1.1998, clay I.E.S., R.J. et al. leg. Malaise trap, APHI, C2/9",1998-12-17,1999-01-20,"c2-9","c2","clay","Amazon 1998"
+"10227","M","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 17.12-20.1.1998, clay I.E.S., R.J. et al. leg. Malaise trap, APHI, C2/9",1998-12-17,1999-01-20,"c2-9","c2","clay","Amazon 1998"
+"10228","M","Syzeuctus sp3","Amazon 1998","","","","","25
+PERU, Dept. of Loreto Iquitos area, Allpahuayo 17.12-20.1.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI C2/9 013
+16 [or 91?]",1998-12-17,1999-01-20,"c2-9","c2","clay","Amazon 1998"
+"10229","M","Syzeuctus sp3","Amazon 2000","-3.9445","-73.413527777778","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 16.7-2.8.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, F1/10",2000-07-16,2000-08-02,"f1-10","f1","loam","Amazon 2000"
+"10230","M","Syzeuctus sp3","Amazon 2000","-3.948916666667","-73.421194444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 17.10-8.11.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H1/15",2000-10-17,2000-11-08,"h1-15","h1","loam","Amazon 2000"
+"10231","F","Syzeuctus sp4","Amazon 2011","-3.967163888889","-73.417222222222","130","The coordinates come from a file in https://doi.org/10.5281/zenodo.3559054 . The decimal point of the seconds seems to be missing, so it is uncertain what the actual coordinates are. These are the best guesses based on placing the decimal point in different places and seeing if the point lands on secondary forest in Google Maps. It may also be worth comparing to the pictures of the trap sites (https://doi.org/10.5281/zenodo.3559054).","PERU, Dept. of Loreto, Iquitos area, Allpahuayo 31.10 -6.11.2011 I.Gómez&Sääksjärvi leg. Malaise2 Week24 30 58' 17\"S  73 25' 20\"W",2011-10-30,2011-11-06,"m2-24","m2","secondary","Amazon 2011"
+"10232","F","Syzeuctus sp4","Amazon 2011","-3.951383333333","-73.402588888889","90","The coordinates come from a file in https://doi.org/10.5281/zenodo.3559054 . The decimal point of the seconds seems to be missing, so it is uncertain what the actual coordinates are. These are the best guesses based on placing the decimal point in different places and seeing if the point lands on secondary forest in Google Maps. It may also be worth comparing to the pictures of the trap sites (https://doi.org/10.5281/zenodo.3559054).","PERU, Dept. of Loreto, Iquitos area, Allpahuayo 26.9-2.10.2011 Gómez&Sääksjärvi leg. Malaise1 Week19 30 57' 49\"S  73 24' 93\" W",2011-09-25,2011-10-02,"m1-19","m1","secondary","Amazon 2011"
+"10513","F","Syzeuctus sp1","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.10.1998, clayish soil I.E.S., R.J. et al. leg. Malaise t., APHI A1/4 130
+21
+49",1998-10-01,1998-10-16,"a1-4","a1","clay","Amazon 1998"
+"10514","F","Syzeuctus sp1","Amazon 1998","","","","","27
+PERU, Dept. of Loreto Iquitos area, Mishana 16.12-1.1.1999, clay I.E.S., R.J. et al. leg. Malaise t., APHI A1/9 313
+43",1998-12-16,1999-01-01,"a1-9","a1","clay","Amazon 1998"
+"10515","F","Syzeuctus sp1","Amazon 1998","","","","","42
+PERU, Dept. of Loreto Iquitos area, Allpahuayo 18.9-4.10.1998, clay I.E.S., R.J. et al. leg. Malaise trap, APHI, C2/3 011
+47",1998-09-18,1998-10-04,"c2-3","c2","clay","Amazon 1998"
+"10516","F","Syzeuctus sp1","Amazon 1998","","","","","42
+PERU, Dept. of Loreto Iquitos area, Allpahuayo 18.9-4.10.1998, clay I.E.S., R.J. et al. leg. Malaise trap, APHI, C2/3 012
+48",1998-09-18,1998-10-04,"c2-3","c2","clay","Amazon 1998"
+"10517","F","Syzeuctus sp1","Amazon 1998","","","","","59
+PERU, Dept. of Loreto Iquitos area, Allpahuayo 17.12-20.1.1998, varillal I.E.S., R.J. et al. leg. Malaise trap, APHI, D1/9 015
+46",1998-12-17,1999-01-20,"d1-9","d1","sand","Amazon 1998"
+"10518","F","Syzeuctus sp1","Amazon 1998","","","","","57
+PERU, Dept. of Loreto Iquitos area, Allpahuayo 20.8-4.9.1998, varillal I.E.S., R.J. et al. leg. Malaise trap, APHI, D1/1 007
+45",1998-08-20,1998-09-04,"d1-1","d1","sand","Amazon 1998"
+"10519","F","Syzeuctus sp1","Amazon 1998","","","","","47
+PERU, Dept. of Loreto Iquitos area, Allpahuayo 20.10-5.11.1998, varillal I.E.S., R.J. et al. leg. Malaise trap, APHI, D1/5 012
+53",1998-10-20,1998-11-05,"d1-5","d1","sand","Amazon 1998"
+"10520","F","Syzeuctus sp1","Amazon 2000","-3.943361111111","-73.411444444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 15.-28.12.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, E1/18",2000-12-15,2000-12-28,"e1-18","e1","sand","Amazon 2000"
+"10521","F","Syzeuctus sp1","Amazon 2000","-3.943361111111","-73.411444444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 15.-28.12.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, E1/18",2000-12-15,2000-12-28,"e1-18","e1","sand","Amazon 2000"
+"10522","F","Syzeuctus sp1","Amazon 2000","-3.941388888889","-73.405805555556","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 22.2.-8.3.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, E3/2",2000-02-22,2000-03-08,"e3-2","e3","sand","Amazon 2000"
+"10523","F","Syzeuctus sp1","Amazon 2000","-3.942055555556","-73.408166666667","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 2-18.8.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, E2/11",2000-08-02,2000-08-18,"e2-11","e2","sand","Amazon 2000"
+"10524","F","Syzeuctus sp1","Amazon 2000","-3.9445","-73.413527777778","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3.-16.4.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, F1/4",2000-03-24,2000-04-16,"f1-4","f1","loam","Amazon 2000"
+"10525","F","Syzeuctus sp1","Amazon 2000","-3.9445","-73.413527777778","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3.-16.4.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, F1/4",2000-03-24,2000-04-16,"f1-4","f1","loam","Amazon 2000"
+"10526","F","Syzeuctus sp1","Amazon 2000","-3.946555555556","-73.413055555556","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 22.-7.3.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, F2/2",2000-02-22,2000-03-07,"f2-2","f2","loam","Amazon 2000"
+"10527","F","Syzeuctus sp1","Amazon 2000","-3.9445","-73.413527777778","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 15.10.-8.11.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, F1/16",2000-11-08,2000-12-01,"f1-16","f1","loam","Amazon 2000"
+"10528","F","Syzeuctus sp1","Amazon 2000","-3.9445","-73.413527777778","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 22.1.-22.2.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, F1/1",2000-01-22,2000-02-22,"f1-1","f1","loam","Amazon 2000"
+"10529","F","Syzeuctus sp1","Amazon 2000","-3.946555555556","-73.413055555556","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 7-24.3.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, F2/3",2000-03-07,2000-03-24,"f2-3","f2","loam","Amazon 2000"
+"10530","F","Syzeuctus sp1","Amazon 2000","-3.946833333333","-73.423472222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3.-16.4.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, G1/4",2000-03-24,2000-04-16,"g1-4","g1","sand","Amazon 2000"
+"10531","F","Syzeuctus sp1","Amazon 2000","-3.946833333333","-73.423472222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3.-16.4.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, G1/4",2000-03-24,2000-04-16,"g1-4","g1","sand","Amazon 2000"
+"10532","F","Syzeuctus sp1","Amazon 2000","-3.934166666667","-73.441388888889","","The coordinates of g2 and g3 were measured at a later date than other Amazon 2000 traps. They should be within 10-20 metres accurate.","PERU, Dept. of Loreto Iquitos area, Allpahuayo 8.-24.3.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, G3/3",2000-03-08,2000-03-24,"g3-3","g3","sand","Amazon 2000"
+"10533","F","Syzeuctus sp1","Amazon 2000","-3.934166666667","-73.441388888889","","The coordinates of g2 and g3 were measured at a later date than other Amazon 2000 traps. They should be within 10-20 metres accurate.","PERU, Dept. of Loreto Iquitos area, Allpahuayo 8.-24.3.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, G3/3",2000-03-08,2000-03-24,"g3-3","g3","sand","Amazon 2000"
+"10534","F","Syzeuctus sp1","Amazon 2000","-3.934166666667","-73.441388888889","","The coordinates of g2 and g3 were measured at a later date than other Amazon 2000 traps. They should be within 10-20 metres accurate.","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3.-16.4.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, G3/4",2000-03-24,2000-04-16,"g3-4","g3","sand","Amazon 2000"
+"10535","F","Syzeuctus sp1","Amazon 2000","-3.946833333333","-73.423472222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 16.7-2.8.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, G1/10",2000-07-16,2000-08-02,"g1-10","g1","sand","Amazon 2000"
+"10536","F","Syzeuctus sp1","Amazon 2000","-3.948916666667","-73.421194444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3.-17.4.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H1/4",2000-03-24,2000-04-17,"h1-4","h1","loam","Amazon 2000"
+"10537","F","Syzeuctus sp1","Amazon 2000","-3.948916666667","-73.421194444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3.-17.4.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H1/4",2000-03-24,2000-04-17,"h1-4","h1","loam","Amazon 2000"
+"10538","F","Syzeuctus sp1","Amazon 2000","-3.948916666667","-73.421194444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3.-17.4.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H1/4",2000-03-24,2000-04-17,"h1-4","h1","loam","Amazon 2000"
+"10539","F","Syzeuctus sp1","Amazon 2000","-3.953694444444","-73.418722222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3.-17.4.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H2/4",2000-03-24,2000-04-17,"h2-4","h2","clay","Amazon 2000"
+"10540","F","Syzeuctus sp1","Amazon 2000","-3.953694444444","-73.418722222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3.-17.4.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H2/4",2000-03-24,2000-04-17,"h2-4","h2","clay","Amazon 2000"
+"10541","F","Syzeuctus sp1","Amazon 2000","-3.953694444444","-73.418722222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 8.11.-1.12.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H2/16",2000-11-08,2000-12-01,"h2-16","h2","clay","Amazon 2000"
+"10542","F","Syzeuctus sp1","Amazon 2000","-3.953694444444","-73.418722222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 17.4-3.5.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H2/5",2000-04-17,2000-05-03,"h2-5","h2","clay","Amazon 2000"
+"10543","F","Syzeuctus sp1","Amazon 2000","-3.948916666667","-73.421194444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 22.5-11.6.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H1/7",2000-05-22,2000-06-11,"h1-7","h1","loam","Amazon 2000"
+"10544","F","Syzeuctus sp1","Amazon 2000","-3.948916666667","-73.421194444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 22.5-11.6.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H1/7",2000-05-22,2000-06-11,"h1-7","h1","loam","Amazon 2000"
+"10545","F","Syzeuctus sp1","Amazon 2000","-3.948916666667","-73.421194444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 22.5-11.6.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H1/7",2000-05-22,2000-06-11,"h1-7","h1","loam","Amazon 2000"
+"10546","F","Syzeuctus sp1","Amazon 2000","-3.948916666667","-73.421194444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 17.4-3.5.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H1/5",2000-04-17,2000-05-03,"h1-5","h1","loam","Amazon 2000"
+"10547","F","Syzeuctus sp1","Amazon 2000","-3.948916666667","-73.421194444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 17.4-3.5.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H1/5",2000-04-17,2000-05-03,"h1-5","h1","loam","Amazon 2000"
+"10548","F","Syzeuctus sp1","Amazon 2000","-3.948916666667","-73.421194444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 17.4-3.5.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H1/5",2000-04-17,2000-05-03,"h1-5","h1","loam","Amazon 2000"
+"10549","F","Syzeuctus sp1","Amazon 2000","-3.948916666667","-73.421194444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 17.4-3.5.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H1/5",2000-04-17,2000-05-03,"h1-5","h1","loam","Amazon 2000"
+"10550","F","Syzeuctus sp1","Amazon 2000","-3.948916666667","-73.421194444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 17.4-3.5.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H1/5",2000-04-17,2000-05-03,"h1-5","h1","loam","Amazon 2000"
+"10551","F","Syzeuctus sp1","Amazon 2000","-3.948916666667","-73.421194444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 17.4-3.5.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H1/5",2000-04-17,2000-05-03,"h1-5","h1","loam","Amazon 2000"
+"10552","F","Syzeuctus sp1","Amazon 2000","-3.953694444444","-73.418722222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 18.8.-14.9.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H2/12",2000-08-18,2000-09-14,"h2-12","h2","clay","Amazon 2000"
+"10553","F","Syzeuctus sp1","Amazon 2000","-3.953694444444","-73.418722222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 17.-29.6.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H2/8",2000-06-11,2000-06-29,"h2-8","h2","clay","Amazon 2000"
+"10554","F","Syzeuctus sp1","Amazon 2000","-3.948916666667","-73.421194444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 29.6.-16.7.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H1/9",2000-06-29,2000-07-16,"h1-9","h1","loam","Amazon 2000"
+"10555","F","Syzeuctus sp1","Amazon 2000","-3.948916666667","-73.421194444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 8.11.-1.12.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H1/16",2000-11-08,2000-12-01,"h1-16","h1","loam","Amazon 2000"
+"10556","F","Syzeuctus sp1","Amazon 2000","-3.971972222222","-73.432055555556","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 17.4-3.5.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, J2/5",2000-04-17,2000-05-03,"j2-5","j2","clay","Amazon 2000"
+"10557","F","Syzeuctus sp1","Amazon 2000","-3.971972222222","-73.432055555556","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 17.4-3.5.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, J2/5",2000-04-17,2000-05-03,"j2-5","j2","clay","Amazon 2000"
+"10558","F","Syzeuctus sp1","Amazon 2000","-3.971972222222","-73.432055555556","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 17.4-3.5.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, J2/5",2000-04-17,2000-05-03,"j2-5","j2","clay","Amazon 2000"
+"10559","F","Syzeuctus sp1","Amazon 2000","-3.971972222222","-73.432055555556","","","J2 1.3-16.3.00 (3) 24.III-2000 (7) 8-24.3.00 11.",2000-03-08,2000-03-24,"j2-3","j2","clay","Amazon 2000"
+"10560","F","Syzeuctus sp1","Amazon 2000","-3.971972222222","-73.432055555556","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3-17.4.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, J2/4",2000-03-24,2000-04-17,"j2-4","j2","clay","Amazon 2000"
+"10561","F","Syzeuctus sp1","Amazon 2000","-3.962972222222","-73.442722222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo April 2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, I1/4",2000-03-24,2000-04-17,"i1-4","i1","sand","Amazon 2000"
+"10562","F","Syzeuctus sp1","Amazon 2000","-3.962972222222","-73.442722222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo April 2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, I1/4",2000-03-24,2000-04-17,"i1-4","i1","sand","Amazon 2000"
+"10563","F","Syzeuctus sp1","Amazon 2000","-3.9675","-73.436527777778","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 2-18.8.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, I2/11",2000-08-02,2000-08-18,"i2-11","i2","sand","Amazon 2000"
+"10564","F","Syzeuctus sp1","Amazon 2000","-3.960833333333","-73.444527777778","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 29.1.-20.2.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, I3/1",2000-01-29,2000-02-20,"i3-1","i3","sand","Amazon 2000"
+"10565","F","Syzeuctus sp1","Amazon 2000","-3.962972222222","-73.442722222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo April 2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, I1/4",2000-03-24,2000-04-17,"i1-4","i1","sand","Amazon 2000"
+"10566","F","Syzeuctus sp1","Amazon 2000","-3.960833333333","-73.444527777778","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 8.-24.3.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, I3/3",2000-03-08,2000-03-24,"i3-3","i3","sand","Amazon 2000"
+"10567","F","Syzeuctus sp1","Amazon 2000","-3.9675","-73.436527777778","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 17.4.-3.5.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, I2/5",2000-04-17,2000-05-03,"i2-5","i2","sand","Amazon 2000"
+"10568","F","Syzeuctus sp1","Amazon 2000","","","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 15.10.-8.11.2000, chamizal Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, K2/15",2000-10-15,2000-11-08,"k2-15","k2","sand","Amazon 2000"
+"10569","F","Syzeuctus sp1","Amazon 2011","-3.951383333333","-73.402588888889","90","The coordinates come from a file in https://doi.org/10.5281/zenodo.3559054 . The decimal point of the seconds seems to be missing, so it is uncertain what the actual coordinates are. These are the best guesses based on placing the decimal point in different places and seeing if the point lands on secondary forest in Google Maps. It may also be worth comparing to the pictures of the trap sites (https://doi.org/10.5281/zenodo.3559054).","PERU, Dept. of Loreto, Iquitos area, Allpahuayo 5-11.8.2011 Gómez&Sääksjärvi leg. Malaise1 Week16 30 57' 49 \"S  73 24' 93 \" W",2011-09-04,2011-09-11,"m1-16","m1","secondary","Amazon 2011"
+"10570","F","Syzeuctus sp1","Amazon 2011","-3.951383333333","-73.402588888889","90","The coordinates come from a file in https://doi.org/10.5281/zenodo.3559054 . The decimal point of the seconds seems to be missing, so it is uncertain what the actual coordinates are. These are the best guesses based on placing the decimal point in different places and seeing if the point lands on secondary forest in Google Maps. It may also be worth comparing to the pictures of the trap sites (https://doi.org/10.5281/zenodo.3559054).","PERU, Dept. of Loreto, Iquitos area, Allpahuayo 26.9-2.10.2011 Gómez&Sääksjärvi leg. Malaise1 Week19 30 57' 49\"S  73 24' 93\" W",2011-09-25,2011-10-02,"m1-19","m1","secondary","Amazon 2011"
+"10571","M","Syzeuctus sp1","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 17.12-20.1.1999, varillal I.E.S., R.J. et al. leg. Malaise t., APHI D2/9 103",1998-12-17,1999-01-20,"d2-9","d2","sand","Amazon 1998"
+"10572","M","Syzeuctus sp1","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 17.11-3.12.1998, varillal I.E.S., R.J. et al. leg. Malaise t., APHI D2/7 159",1998-11-17,1998-12-03,"d2-7","d2","sand","Amazon 1998"
+"10573","M","Syzeuctus sp1","Amazon 1998","","","","","60
+PERU, Dept. of Loreto Iquitos area, Allpahuayo 4-20.10.1998, varillal I.E.S., R.J. et al. leg. Malaise t., APHI D1/4 005
+55",1998-10-04,1998-10-20,"d1-4","d1","sand","Amazon 1998"
+"10574","M","Syzeuctus sp1","Amazon 1998","","","","","46
+PERU, Dept. of Loreto Iquitos area, Allpahuayo 18.9-4.10.1998, varillal I.E.S., R.J. et al. leg. Malaise t., APHI D1/3 013
+54",1998-09-18,1998-10-04,"d1-3","d1","sand","Amazon 1998"
+"10575","M","Syzeuctus sp1","Amazon 2000","-3.943361111111","-73.411444444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 16.4.-3.5.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, E1/5",2000-04-16,2000-05-03,"e1-5","e1","sand","Amazon 2000"
+"10576","M","Syzeuctus sp1","Amazon 2000","-3.942055555556","-73.408166666667","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 16.4.-3.5.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, E2/5",2000-04-16,2000-05-03,"e2-5","e2","sand","Amazon 2000"
+"10577","M","Syzeuctus sp1","Amazon 2000","-3.9445","-73.413527777778","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3.-16.4.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, F1/4",2000-03-24,2000-04-16,"f1-4","f1","loam","Amazon 2000"
+"10578","M","Syzeuctus sp1","Amazon 2000","-3.934166666667","-73.441388888889","","The coordinates of g2 and g3 were measured at a later date than other Amazon 2000 traps. They should be within 10-20 metres accurate.","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.1-20.2.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, G3/1",2000-01-24,2000-02-20,"g3-1","g3","sand","Amazon 2000"
+"10579","M","Syzeuctus sp1","Amazon 2000","-3.946833333333","-73.423472222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3-16.4.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, G1/4",2000-03-24,2000-04-16,"g1-4","g1","sand","Amazon 2000"
+"10580","M","Syzeuctus sp1","Amazon 2000","-3.933888888889","-73.431111111111","","The coordinates of g2 and g3 were measured at a later date than other Amazon 2000 traps. They should be within 10-20 metres accurate.","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3-16.4.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, G2/4",2000-03-24,2000-04-16,"g2-4","g2","sand","Amazon 2000"
+"10581","M","Syzeuctus sp1","Amazon 2000","-3.933888888889","-73.431111111111","","The coordinates of g2 and g3 were measured at a later date than other Amazon 2000 traps. They should be within 10-20 metres accurate.","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3-16.4.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, G2/4",2000-03-24,2000-04-16,"g2-4","g2","sand","Amazon 2000"
+"10582","M","Syzeuctus sp1","Amazon 2000","-3.933888888889","-73.431111111111","","The coordinates of g2 and g3 were measured at a later date than other Amazon 2000 traps. They should be within 10-20 metres accurate.","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3-16.4.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, G2/4",2000-03-24,2000-04-16,"g2-4","g2","sand","Amazon 2000"
+"10583","M","Syzeuctus sp1","Amazon 2000","-3.948916666667","-73.421194444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 8.3.-24.3.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H1/3",2000-03-08,2000-03-24,"h1-3","h1","loam","Amazon 2000"
+"10584","M","Syzeuctus sp1","Amazon 2000","-3.948916666667","-73.421194444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 11.-29.6.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H1/8",2000-06-11,2000-06-29,"h1-8","h1","loam","Amazon 2000"
+"10585","M","Syzeuctus sp1","Amazon 2000","-3.953694444444","-73.418722222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 18.8.-14.9.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H2/12",2000-08-18,2000-09-14,"h2-12","h2","clay","Amazon 2000"
+"10586","M","Syzeuctus sp1","Amazon 2000","-3.948916666667","-73.421194444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 16.7-2.8.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H1/10",2000-07-16,2000-08-02,"h1-10","h1","loam","Amazon 2000"
+"10587","M","Syzeuctus sp1","Amazon 2000","-3.948916666667","-73.421194444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 17.4-3.5.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H1/5",2000-04-17,2000-05-03,"h1-5","h1","loam","Amazon 2000"
+"10588","M","Syzeuctus sp1","Amazon 2000","-3.948916666667","-73.421194444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3.-17.4.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H1/4",2000-03-24,2000-04-17,"h1-4","h1","loam","Amazon 2000"
+"10589","M","Syzeuctus sp1","Amazon 2000","-3.962972222222","-73.442722222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 15.10.-8.11.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, I1/15",2000-10-15,2000-11-08,"i1-15","i1","sand","Amazon 2000"
+"10590","M","Syzeuctus sp1","Amazon 2000","-3.962972222222","-73.442722222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo April 2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, I1/4",2000-03-24,2000-04-17,"i1-4","i1","sand","Amazon 2000"
+"10591","M","Syzeuctus sp1","Amazon 2000","-3.962972222222","-73.442722222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo April 2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, I1/4",2000-03-24,2000-04-17,"i1-4","i1","sand","Amazon 2000"
+"10592","M","Syzeuctus sp1","Amazon 2011","-3.967336111111","-73.417927777778","125","The coordinates come from a file in https://doi.org/10.5281/zenodo.3559054 . The decimal point of the seconds seems to be missing, so it is uncertain what the actual coordinates are. These are the best guesses based on placing the decimal point in different places and seeing if the point lands on secondary forest in Google Maps. It may also be worth comparing to the pictures of the trap sites (https://doi.org/10.5281/zenodo.3559054).","PERU, Dept. of Loreto, Iquitos area, Allpahuayo 24-30.10.2011 Gómez&Sääksjärvi leg. Malaise6 Week23 30 58' 24 \"S  73 25' 45 \" W",2011-10-23,2011-10-30,"m6-23","m6","secondary","Amazon 2011"
+"10593","M","Syzeuctus sp1","Amazon 2011","-3.951383333333","-73.402588888889","90","The coordinates come from a file in https://doi.org/10.5281/zenodo.3559054 . The decimal point of the seconds seems to be missing, so it is uncertain what the actual coordinates are. These are the best guesses based on placing the decimal point in different places and seeing if the point lands on secondary forest in Google Maps. It may also be worth comparing to the pictures of the trap sites (https://doi.org/10.5281/zenodo.3559054).","PERU, Dept. of Loreto, Iquitos area, Allpahuayo 12-18.9.2011 Gómez&Sääksjärvi leg. Malaise1 Week17 30 57' 49\"S  73 24' 93\" W",2011-09-11,2011-09-18,"m1-17","m1","secondary","Amazon 2011"
+"10594","F","Syzeuctus sp2","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 16.12.98-1.1.99, varillal I.E.S., R.J. et al. leg. Malaise t., APHI B2/9 125
+3
+[5? or 51?]",1998-12-16,1999-01-01,"b2-9","b2","sand","Amazon 1998"
+"10595","F","Syzeuctus sp2","Amazon 1998","","","","","25
+PERU, Dept. of Loreto Iquitos area, Allpahuayo 17.12-20.1.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI C2/9 010
+50",1998-12-17,1999-01-20,"c2-9","c2","clay","Amazon 1998"
+"10596","F","Syzeuctus sp2","Amazon 1998","","","","","59
+PERU, Dept. of Loreto Iquitos area, Allpahuayo 17.12-20.1.1998, varillal I.E.S., R.J. et al. leg. Malaise t., APHI D1/9 017
+52",1998-12-17,1999-01-20,"d1-9","d1","sand","Amazon 1998"
+"10597","F","Syzeuctus sp2","Amazon 2000","-3.941388888889","-73.405805555556","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 8.-24.3.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, E3/3",2000-03-08,2000-03-24,"e3-3","e3","sand","Amazon 2000"
+"10598","F","Syzeuctus sp2","Amazon 2000","-3.943361111111","-73.411444444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3-16.4.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, E1/4",2000-03-24,2000-04-16,"e1-4","e1","sand","Amazon 2000"
+"10599","F","Syzeuctus sp2","Amazon 2000","-3.943361111111","-73.411444444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 16.4-3.5.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, E1/5",2000-04-16,2000-05-03,"e1-5","e1","sand","Amazon 2000"
+"10600","F","Syzeuctus sp2","Amazon 2000","-3.942055555556","-73.408166666667","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 8.-24.3.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, E2/3",2000-03-08,2000-03-24,"e2-3","e2","sand","Amazon 2000"
+"10601","F","Syzeuctus sp2","Amazon 2000","-3.942055555556","-73.408166666667","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3-16.4.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, E2/4",2000-03-24,2000-04-16,"e2-4","e2","sand","Amazon 2000"
+"10602","F","Syzeuctus sp2","Amazon 2000","-3.941388888889","-73.405805555556","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3-16.4.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, E3/4",2000-03-24,2000-04-16,"e3-4","e3","sand","Amazon 2000"
+"10603","F","Syzeuctus sp2","Amazon 2000","-3.941388888889","-73.405805555556","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3-16.4.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, E3/4",2000-03-24,2000-04-16,"e3-4","e3","sand","Amazon 2000"
+"10604","F","Syzeuctus sp2","Amazon 2000","-3.9445","-73.413527777778","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 8.-24.3.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, F1/3",2000-03-07,2000-03-24,"f1-3","f1","loam","Amazon 2000"
+"10605","F","Syzeuctus sp2","Amazon 2000","-3.9445","-73.413527777778","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 8.-24.3.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, F1/3",2000-03-07,2000-03-24,"f1-3","f1","loam","Amazon 2000"
+"10606","F","Syzeuctus sp2","Amazon 2000","-3.946555555556","-73.413055555556","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 7-24.3.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, F2/3",2000-03-07,2000-03-24,"f2-3","f2","loam","Amazon 2000"
+"10607","F","Syzeuctus sp2","Amazon 2000","-3.933888888889","-73.431111111111","","The coordinates of g2 and g3 were measured at a later date than other Amazon 2000 traps. They should be within 10-20 metres accurate.","PERU, Dept. of Loreto Iquitos area, Allpahuayo 8.-24.3.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, G2/3",2000-03-08,2000-03-24,"g2-3","g2","sand","Amazon 2000"
+"10608","F","Syzeuctus sp2","Amazon 2000","-3.934166666667","-73.441388888889","","The coordinates of g2 and g3 were measured at a later date than other Amazon 2000 traps. They should be within 10-20 metres accurate.","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3.-16.4.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, G3/4",2000-03-24,2000-04-16,"g3-4","g3","sand","Amazon 2000"
+"10609","F","Syzeuctus sp2","Amazon 2000","-3.933888888889","-73.431111111111","","The coordinates of g2 and g3 were measured at a later date than other Amazon 2000 traps. They should be within 10-20 metres accurate.","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.1-20.2.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, G2/1",2000-01-24,2000-02-20,"g2-1","g2","sand","Amazon 2000"
+"10610","F","Syzeuctus sp2","Amazon 2000","-3.933888888889","-73.431111111111","","The coordinates of g2 and g3 were measured at a later date than other Amazon 2000 traps. They should be within 10-20 metres accurate.","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3.-16.4.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, G2/4",2000-03-24,2000-04-16,"g2-4","g2","sand","Amazon 2000"
+"10611","F","Syzeuctus sp2","Amazon 2000","-3.934166666667","-73.441388888889","","The coordinates of g2 and g3 were measured at a later date than other Amazon 2000 traps. They should be within 10-20 metres accurate.","PERU, Dept. of Loreto Iquitos area, Allpahuayo 8.-24.3.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, G3/3",2000-03-08,2000-03-24,"g3-3","g3","sand","Amazon 2000"
+"10612","F","Syzeuctus sp2","Amazon 2000","-3.934166666667","-73.441388888889","","The coordinates of g2 and g3 were measured at a later date than other Amazon 2000 traps. They should be within 10-20 metres accurate.","PERU, Dept. of Loreto Iquitos area, Allpahuayo 8.-24.3.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, G3/3",2000-03-08,2000-03-24,"g3-3","g3","sand","Amazon 2000"
+"10613","F","Syzeuctus sp2","Amazon 2000","-3.934166666667","-73.441388888889","","The coordinates of g2 and g3 were measured at a later date than other Amazon 2000 traps. They should be within 10-20 metres accurate.","PERU, Dept. of Loreto Iquitos area, Allpahuayo 8.-24.3.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, G3/3",2000-03-08,2000-03-24,"g3-3","g3","sand","Amazon 2000"
+"10614","F","Syzeuctus sp2","Amazon 2000","-3.946833333333","-73.423472222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3.-16.4.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, G1/4",2000-03-24,2000-04-16,"g1-4","g1","sand","Amazon 2000"
+"10615","F","Syzeuctus sp2","Amazon 2000","-3.946833333333","-73.423472222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3.-16.4.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, G1/4",2000-03-24,2000-04-16,"g1-4","g1","sand","Amazon 2000"
+"10616","F","Syzeuctus sp2","Amazon 2000","-3.962972222222","-73.442722222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo April 2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, I1/4",2000-03-24,2000-04-17,"i1-4","i1","sand","Amazon 2000"
+"10617","F","Syzeuctus sp2","Amazon 2000","-3.962972222222","-73.442722222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo April 2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, I1/4",2000-03-24,2000-04-17,"i1-4","i1","sand","Amazon 2000"
+"10618","F","Syzeuctus sp2","Amazon 2000","-3.962972222222","-73.442722222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo April 2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, I1/4",2000-03-24,2000-04-17,"i1-4","i1","sand","Amazon 2000"
+"10619","F","Syzeuctus sp2","Amazon 2000","-3.948916666667","-73.421194444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3.-17.4.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H1/4",2000-03-24,2000-04-17,"h1-4","h1","loam","Amazon 2000"
+"10620","F","Syzeuctus sp2","Amazon 2000","-3.953694444444","-73.418722222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3.-17.4.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H2/4",2000-03-24,2000-04-17,"h2-4","h2","clay","Amazon 2000"
+"10621","F","Syzeuctus sp2","Amazon 2000","-3.953694444444","-73.418722222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3.-17.4.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H2/4",2000-03-24,2000-04-17,"h2-4","h2","clay","Amazon 2000"
+"10622","F","Syzeuctus sp2","Amazon 2000","-3.953694444444","-73.418722222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3.-17.4.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H2/4",2000-03-24,2000-04-17,"h2-4","h2","clay","Amazon 2000"
+"10623","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.11.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI A1/6 090",1998-11-01,1998-11-16,"a1-6","a1","clay","Amazon 1998"
+"10624","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.11.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI A1/6 101",1998-11-01,1998-11-16,"a1-6","a1","clay","Amazon 1998"
+"10625","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.11.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI A1/6 062",1998-11-01,1998-11-16,"a1-6","a1","clay","Amazon 1998"
+"10626","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.11.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI A1/6 139",1998-11-01,1998-11-16,"a1-6","a1","clay","Amazon 1998"
+"10627","F","Syzeuctus sp3","Amazon 1998","","","","","26
+PERU, Dept. of Loreto Iquitos area, Mishana 1-16.11.1998, clayish soil I.E.S., R.J. et al. leg. Malaise t., APHI A2/6 423
+58",1998-11-01,1998-11-16,"a2-6","a2","clay","Amazon 1998"
+"10628","F","Syzeuctus sp3","Amazon 1998","","","","","26
+PERU, Dept. of Loreto Iquitos area, Mishana 1-16.11.1998, clayish soil I.E.S., R.J. et al. leg. Malaise t., APHI A2/6 422
+57",1998-11-01,1998-11-16,"a2-6","a2","clay","Amazon 1998"
+"10629","F","Syzeuctus sp3","Amazon 1998","","","","","24
+PERU, Dept. of Loreto Iquitos area, Mishana 16.10-1.11.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI A2/5 278
+59",1998-10-16,1998-11-01,"a2-5","a2","clay","Amazon 1998"
+"10630","F","Syzeuctus sp3","Amazon 1998","","","","","24
+PERU, Dept. of Loreto Iquitos area, Mishana 16.10-1.11.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI A2/5 272
+56",1998-10-16,1998-11-01,"a2-5","a2","clay","Amazon 1998"
+"10631","F","Syzeuctus sp3","Amazon 1998","","","","","24
+PERU, Dept. of Loreto Iquitos area, Mishana 16.10-1.11.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI A2/5 273
+73",1998-10-16,1998-11-01,"a2-5","a2","clay","Amazon 1998"
+"10632","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 16.10-1.11.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI A2/5 012",1998-10-16,1998-11-01,"a2-5","a2","clay","Amazon 1998"
+"10633","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 16.10-1.11.1998, clayish soil I.E.S., R.J. et al. leg. Malaise t., APHI A1/5 092
+23
+68 [0r 89?]",1998-10-16,1998-11-01,"a1-5","a1","clay","Amazon 1998"
+"10634","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.12.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI A2/8 253",1998-12-01,1998-12-16,"a2-8","a2","clay","Amazon 1998"
+"10635","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.12.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI A2/8 111",1998-12-01,1998-12-16,"a2-8","a2","clay","Amazon 1998"
+"10636","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.12.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI A2/8 114",1998-12-01,1998-12-16,"a2-8","a2","clay","Amazon 1998"
+"10637","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.12.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI A2/8 350",1998-12-01,1998-12-16,"a2-8","a2","clay","Amazon 1998"
+"10638","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.12.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI A2/8 183",1998-12-01,1998-12-16,"a2-8","a2","clay","Amazon 1998"
+"10639","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.12.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI A2/8 048",1998-12-01,1998-12-16,"a2-8","a2","clay","Amazon 1998"
+"10640","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.12.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI A2/8 173",1998-12-01,1998-12-16,"a2-8","a2","clay","Amazon 1998"
+"10641","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 16.9-1.10.1998, clayish soil I.E.S., R.J. et al. leg. Malaise t., APHI A1/3 087",1998-09-16,1998-10-01,"a1-3","a1","clay","Amazon 1998"
+"10642","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 16.9-1.10.1998, clayish soil I.E.S., R.J. et al. leg. Malaise t., APHI A1/3 045",1998-09-16,1998-10-01,"a1-3","a1","clay","Amazon 1998"
+"10643","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.9.1998, clayish soil I.E.S., R.J. et al. leg. Malaise t., APHI A2/2 001",1998-09-01,1998-09-16,"a2-2","a2","clay","Amazon 1998"
+"10644","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.9.1998, clayish soil I.E.S., R.J. et al. leg. Malaise t., APHI A2/2 017",1998-09-01,1998-09-16,"a2-2","a2","clay","Amazon 1998"
+"10645","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.9.1998, clayish soil I.E.S., R.J. et al. leg. Malaise t., APHI A1/2 019",1998-09-01,1998-09-16,"a1-2","a1","clay","Amazon 1998"
+"10646","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.10.1998, clayish soil I.E.S., R.J. et al. leg. Malaise t., APHI A1/4 061
+21
+[7? or 67?]",1998-10-01,1998-10-16,"a1-4","a1","clay","Amazon 1998"
+"10647","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.10.1998, clayish soil I.E.S., R.J. et al. leg. Malaise t., APHI A1/4 068
+21
+84",1998-10-01,1998-10-16,"a1-4","a1","clay","Amazon 1998"
+"10648","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 16.11-1.12.1998, clayish soil I.E.S., R.J. et al. leg. Malaise t., APHI A1/7 085",1998-11-16,1998-12-01,"a1-7","a1","clay","Amazon 1998"
+"10649","F","Syzeuctus sp3","Amazon 1998","","","","","43
+PERU, Dept. of Loreto Iquitos area, Mishana 16.11-1.12.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI A2/7 305
+77",1998-11-16,1998-12-01,"a2-7","a2","clay","Amazon 1998"
+"10650","F","Syzeuctus sp3","Amazon 1998","","","","","43
+PERU, Dept. of Loreto Iquitos area, Mishana 16.11-1.12.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI A2/7 306
+74",1998-11-16,1998-12-01,"a2-7","a2","clay","Amazon 1998"
+"10651","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.10.1998, clayish soil I.E.S., R.J. et al. leg. Malaise t., APHI A2/4 208",1998-10-01,1998-10-16,"a2-4","a2","clay","Amazon 1998"
+"10652","F","Syzeuctus sp3","Amazon 1998","","","","","64
+PERU, Dept. of Loreto Iquitos area, Mishana 16.8-1.9.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI A2/1 180
+63 ",1998-08-16,1998-09-01,"a2-1","a2","clay","Amazon 1998"
+"10653","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 16.12.1998-1.1.1999, clay Malaise trap, UTU-ART leg. APIH A2/9 173
+22
+65",1998-12-16,1999-01-01,"a2-9","a2","clay","Amazon 1998"
+"10654","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 16.12.1998-1.1.1999, clay Malaise trap, UTU-ART leg. APIH A2/9 163
+22
+64",1998-12-16,1999-01-01,"a2-9","a2","clay","Amazon 1998"
+"10655","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 16.12.1998-1.1.1999, clay Malaise trap, UTU-ART leg. APIH A2/9 007
+22
+66",1998-12-16,1999-01-01,"a2-9","a2","clay","Amazon 1998"
+"10656","F","Syzeuctus sp3","Amazon 2000","-3.941388888889","-73.405805555556","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 15.-28.12.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, E3/18",2000-12-15,2000-12-29,"e3-18","e3","sand","Amazon 2000"
+"10657","F","Syzeuctus sp3","Amazon 2000","-3.941388888889","-73.405805555556","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 22.2.-8.3.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, E3/2",2000-02-22,2000-03-08,"e3-2","e3","sand","Amazon 2000"
+"10658","F","Syzeuctus sp3","Amazon 2000","-3.943361111111","-73.411444444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 15.10.-8.11.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, E1/15",2000-10-15,2000-11-08,"e1-15","e1","sand","Amazon 2000"
+"10659","F","Syzeuctus sp3","Amazon 2000","-3.942055555556","-73.408166666667","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 22.2-8.3.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, E2/2",2000-02-22,2000-03-08,"e2-2","e2","sand","Amazon 2000"
+"10660","F","Syzeuctus sp3","Amazon 2000","-3.962972222222","-73.442722222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 15.10.-8.11.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, I1/15",2000-10-15,2000-11-08,"i1-15","i1","sand","Amazon 2000"
+"10661","F","Syzeuctus sp3","Amazon 2000","-3.961833333333","-73.440888888889","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 15.10.-8.11.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, J1/15",2000-10-15,2000-11-08,"j1-15","j1","loam","Amazon 2000"
+"10662","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 17.11-3.12.1998, clay I.E.S., R.J. et al. leg. Malaise t., APHI C2/7 162",1998-11-17,1998-12-03,"c2-7","c2","clay","Amazon 1998"
+"10663","F","Syzeuctus sp3","Amazon 1998","","","","","BANCHIN
+PERU, Dept. of Loreto Iquitos area, Allpahuayo 17.12-20.1.1998, clay I.E.S.,R.J. et al. leg. Malaise t., APHI, C2/9",1998-12-17,1999-01-20,"c2-9","c2","clay","Amazon 1998"
+"10664","F","Syzeuctus sp3","Amazon 1998","","","","","58
+PERU, Dept. of Loreto Iquitos area, Allpahuayo 5-17.11.1998, varillal I.E.S., R.J. et al. leg. Malaise t., APHI D1/6 011
+62",1998-11-05,1998-11-17,"d1-6","d1","sand","Amazon 1998"
+"10665","F","Syzeuctus sp3","Amazon 1998","","","","","53
+PERU, Dept. of Loreto Iquitos area, Allpahuayo 5-17.11.1998, varillal I.E.S., R.J. et al. leg. Malaise t., APHI D2/6 007
+60",1998-11-05,1998-11-17,"d2-6","d2","sand","Amazon 1998"
+"10666","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 17.11-3.12.1998, varillal I.E.S., R.J. et al. leg. Malaise t., APHI D2/7 133",1998-11-17,1998-12-03,"d2-7","d2","sand","Amazon 1998"
+"10667","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 20.10-5.11.1998, varillal I.E.S., R.J. et al. leg. Malaise t., APHI D1/5 105",1998-10-20,1998-11-05,"d1-5","d1","sand","Amazon 1998"
+"10668","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 17.12-20.1.1999, varillal I.E.S., R.J. et al. leg. Malaise t., APHI D2/9 171",1998-12-17,1999-01-20,"d2-9","d2","sand","Amazon 1998"
+"10669","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 17.12-20.1.1999, varillal I.E.S., R.J. et al. leg. Malaise t., APHI D2/9 107",1998-12-17,1999-01-20,"d2-9","d2","sand","Amazon 1998"
+"10670","F","Syzeuctus sp3","Amazon 2000","-3.934166666667","-73.441388888889","","The coordinates of g2 and g3 were measured at a later date than other Amazon 2000 traps. They should be within 10-20 metres accurate.","PERU, Dept. of Loreto Iquitos area, Allpahuayo 8.-24.3.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, G3/3",2000-03-08,2000-03-24,"g3-3","g3","sand","Amazon 2000"
+"10671","F","Syzeuctus sp3","Amazon 2000","-3.934166666667","-73.441388888889","","The coordinates of g2 and g3 were measured at a later date than other Amazon 2000 traps. They should be within 10-20 metres accurate.","PERU, Dept. of Loreto Iquitos area, Allpahuayo 8.-24.3.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, G3/3",2000-03-08,2000-03-24,"g3-3","g3","sand","Amazon 2000"
+"10672","F","Syzeuctus sp3","Amazon 2000","-3.934166666667","-73.441388888889","","The coordinates of g2 and g3 were measured at a later date than other Amazon 2000 traps. They should be within 10-20 metres accurate.","PERU, Dept. of Loreto Iquitos area, Allpahuayo 14.9.-4.10.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, G3/13",2000-09-14,2000-10-04,"g3-13","g3","sand","Amazon 2000"
+"10673","F","Syzeuctus sp3","Amazon 2000","-3.933888888889","-73.431111111111","","The coordinates of g2 and g3 were measured at a later date than other Amazon 2000 traps. They should be within 10-20 metres accurate.","PERU, Dept. of Loreto Iquitos area, Allpahuayo 8.-24.3.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, G2/3",2000-03-08,2000-03-24,"g2-3","g2","sand","Amazon 2000"
+"10674","F","Syzeuctus sp3","Amazon 2000","-3.946833333333","-73.423472222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo Sept 2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, G1/13",2000-09-14,2000-10-04,"g1-13","g1","sand","Amazon 2000"
+"10675","F","Syzeuctus sp3","Amazon 2000","-3.934166666667","-73.441388888889","","The coordinates of g2 and g3 were measured at a later date than other Amazon 2000 traps. They should be within 10-20 metres accurate.","PERU, Dept. of Loreto Iquitos area, Allpahuayo 4-17.10.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, G3/14",2000-10-04,2000-10-17,"g3-14","g3","sand","Amazon 2000"
+"10676","F","Syzeuctus sp3","Amazon 2000","-3.946833333333","-73.423472222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 28.12.00-23.1.2000, white sand Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, G1/19",2000-12-28,2001-01-23,"g1-19","g1","sand","Amazon 2000"
+"10677","F","Syzeuctus sp3","Amazon 2000","-3.948916666667","-73.421194444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 22.5-11.6.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H1/7",2000-05-22,2000-06-11,"h1-7","h1","loam","Amazon 2000"
+"10678","F","Syzeuctus sp3","Amazon 2000","-3.953694444444","-73.418722222222","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 8-24.3.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H2/3",2000-03-08,2000-03-24,"h2-3","h2","clay","Amazon 2000"
+"10679","F","Syzeuctus sp3","Amazon 2000","-3.948916666667","-73.421194444444","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3.-17.4.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, H1/4",2000-03-24,2000-04-17,"h1-4","h1","loam","Amazon 2000"
+"10680","F","Syzeuctus sp3","Amazon 2000","-3.9445","-73.413527777778","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 8-24.3.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, F1/3",2000-03-07,2000-03-24,"f1-3","f1","loam","Amazon 2000"
+"10681","F","Syzeuctus sp3","Amazon 2000","-3.946555555556","-73.413055555556","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 24.3.-17.4.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, F2/4",2000-03-24,2000-04-16,"f2-4","f2","loam","Amazon 2000"
+"10682","F","Syzeuctus sp3","Amazon 2000","-3.946555555556","-73.413055555556","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 14.9.-4.10.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, F2/13",2000-09-14,2000-10-04,"f2-13","f2","loam","Amazon 2000"
+"10683","F","Syzeuctus sp3","Amazon 2000","-3.9445","-73.413527777778","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 16.4.-3.5.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, F1/5",2000-04-16,2000-05-03,"f1-5","f1","loam","Amazon 2000"
+"10684","F","Syzeuctus sp3","Amazon 2000","-3.9445","-73.413527777778","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 15.-28.12.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, F1/18",2000-12-15,2000-12-28,"f1-18","f1","loam","Amazon 2000"
+"10685","F","Syzeuctus sp3","Amazon 2000","-3.9445","-73.413527777778","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 4.-15.10.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, F1/14",2000-10-04,2000-10-15,"f1-14","f1","loam","Amazon 2000"
+"10686","F","Syzeuctus sp3","Amazon 2000","-3.9445","-73.413527777778","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 8.11.-1.12.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, F1/16",2000-11-08,2000-12-01,"f1-16","f1","loam","Amazon 2000"
+"10687","F","Syzeuctus sp3","Amazon 2000","-3.9445","-73.413527777778","","","PERU, Dept. of Loreto Iquitos area, Allpahuayo 16.7.-2.8.2000, clay Sääksjärvi, I.E. et al. leg. Malaise trap, APHI, F1/10",2000-07-16,2000-08-02,"f1-10","f1","loam","Amazon 2000"
+"10688","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 16.9-1.10.1998, varillal I.E.S., R.J. et al. leg. Malaise t., APHI B1/3 027
+11
+79",1998-09-16,1998-10-01,"b1-3","b1","sand","Amazon 1998"
+"10689","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.11.1998, varillal I.E.S., R.J. et al. leg. Malaise t., APHI B1/6 068
+5
+82",1998-11-01,1998-11-16,"b1-6","b1","sand","Amazon 1998"
+"10690","F","Syzeuctus sp3","Amazon 1998","","","","","2
+PERU, Dept. of Loreto Iquitos area, Mishana 1-16.10.1998, varillal I.E.S., R.J. et al. leg. Malaise t., APHI B1/4[B2/4 but 2 written over with 1] 043
+83",1998-10-01,1998-10-16,"b1-4","b1","sand","Amazon 1998"
+"10691","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 16.8-1.9.1998, varillal I.E.S., R.J. et al. leg. Malaise t., APHI B1/1 039",1998-08-16,1998-09-01,,"b1","sand","Amazon 1998"
+"10692","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.11.1998, varillal I.E.S., R.J. et al. leg. Malaise t., APHI B2/6 099",1998-11-01,1998-11-16,"b2-6","b2","sand","Amazon 1998"
+"10693","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 16.8-1.9.1998, varillal I.E.S., R.J. et al. leg. Malaise t., APHI B2/1 039
+14
+72",1998-08-16,1998-09-01,"b2-1","b2","sand","Amazon 1998"
+"10694","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.12.1998, varillal I.E.S., R.J. et al. leg. Malaise t., APHI B2/8 087
+8
+69",1998-12-01,1998-12-16,"b2-8","b2","sand","Amazon 1998"
+"10695","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.10.1998, varillal I.E.S., R.J. et al. leg. Malaise t., APHI B2/4 096
+20",1998-10-01,1998-10-16,"b2-4","b2","sand","Amazon 1998"
+"10696","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 16.12.98-1.1.99, varillal I.E.S., R.J. et al. leg. Malaise t., APHI B3/9 135
+4
+55",1998-12-16,1999-01-01,"b3-9","b3","sand","Amazon 1998"
+"10697","F","Syzeuctus sp3","Amazon 1998","","","","","38
+PERU, Dept. of Loreto Iquitos area, Mishana 1-16.9.1998, varillal I.E.S., R.J. et al. leg. Malaise t., APHI B3/2 039
+19",1998-09-01,1998-09-16,"b3-2","b3","sand","Amazon 1998"
+"10698","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.9.1998, varillal I.E.S., R.J. et al. leg. Malaise t., APHI B2/2 024
+1
+78",1998-09-01,1998-09-16,"b2-2","b2","sand","Amazon 1998"
+"10699","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 1-16.9.1998, varillal I.E.S., R.J. et al. leg. Malaise t., APHI B2/2 059
+16
+71",1998-09-01,1998-09-16,"b2-2","b2","sand","Amazon 1998"
+"10700","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 16.12.98-1.1.99, varillal I.E.S., R.J. et al. leg. Malaise t., APHI B2/9 043
+3
+80",1998-12-16,1999-01-01,"b2-9","b2","sand","Amazon 1998"
+"10701","F","Syzeuctus sp3","Amazon 1998","","","","","PERU, Dept. of Loreto Iquitos area, Mishana 16.12.98-1.1.99, varillal I.E.S., R.J. et al. leg. Malaise t., APHI B2/9 082
+3
+81[?]",1998-12-16,1999-01-01,"b2-9","b2","sand","Amazon 1998"
+"10702","F","Syzeuctus sp3","Amazon 1998","","","","","44
+PERU, Dept. of Loreto Iquitos area, Mishana 16.12-1.1.1999, varillal I.E.S., R.J. et al. leg. Malaise t., APHI B1/9 114
+76",1998-12-16,1999-01-01,"b1-9","b1","sand","Amazon 1998"
+"10703","F","Syzeuctus sp3","Amazon 1998","","","","","44
+PERU, Dept. of Loreto Iquitos area, Mishana 16.12-1.1.1999, varillal I.E.S., R.J. et al. leg. Malaise t., APHI B1/9 115
+75",1998-12-16,1999-01-01,"b1-9","b1","sand","Amazon 1998"
+"10704","F","Syzeuctus sp3","Amazon 2011","-3.966691666667","-73.417125","118","The coordinates come from a file in https://doi.org/10.5281/zenodo.3559054 . The decimal point of the seconds seems to be missing, so it is uncertain what the actual coordinates are. These are the best guesses based on placing the decimal point in different places and seeing if the point lands on secondary forest in Google Maps. It may also be worth comparing to the pictures of the trap sites (https://doi.org/10.5281/zenodo.3559054).","PERU, Dept. of Loreto, Iquitos area, Allpahuayo 24-30.10.2011 Gómez&Sääksjärvi leg. Malaise4 Week23 30 58' 00\"S  73 25' 16\" W",2011-10-23,2011-10-30,"m4-23","m4","secondary","Amazon 2011"
+"10705","F","Syzeuctus sp3","Amazon 2011","-3.952077777778","-73.416683333333","109","The coordinates come from a file in https://doi.org/10.5281/zenodo.3559054 . The decimal point of the seconds seems to be missing, so it is uncertain what the actual coordinates are. These are the best guesses based on placing the decimal point in different places and seeing if the point lands on secondary forest in Google Maps. It may also be worth comparing to the pictures of the trap sites (https://doi.org/10.5281/zenodo.3559054).","PERU, Dept. of Loreto, Iquitos area, Allpahuayo 28.11-4.12.2011 Gómez&Sääksjärvi leg. Malaise3 Week28 30 57' 748\"S  73 25' 00\" W",2011-11-27,2011-12-04,"m3-28","m3","secondary","Amazon 2011"
+"10706","F","Syzeuctus sp3","Amazon 2011","-3.967163888889","-73.417222222222","130","The coordinates come from a file in https://doi.org/10.5281/zenodo.3559054 . The decimal point of the seconds seems to be missing, so it is uncertain what the actual coordinates are. These are the best guesses based on placing the decimal point in different places and seeing if the point lands on secondary forest in Google Maps. It may also be worth comparing to the pictures of the trap sites (https://doi.org/10.5281/zenodo.3559054).","PERU, Dept. of Loreto, Iquitos area, Allpahuayo 10-16.10.2011 Gómez&Sääksjärvi leg. Malaise2 Week21 30 58' 17\"\"S  73 25' 20\" W",2011-10-09,2011-10-16,"m2-21","m2","secondary","Amazon 2011"
+"10707","F","Syzeuctus sp3","Amazon 2011","-3.951383333333","-73.402588888889","90","The coordinates come from a file in https://doi.org/10.5281/zenodo.3559054 . The decimal point of the seconds seems to be missing, so it is uncertain what the actual coordinates are. These are the best guesses based on placing the decimal point in different places and seeing if the point lands on secondary forest in Google Maps. It may also be worth comparing to the pictures of the trap sites (https://doi.org/10.5281/zenodo.3559054).","PERU, Dept. of Loreto, Iquitos area, Allpahuayo 26.9-2.10.2011 Gómez&Sääksjärvi leg. Malaise1 Week19 30 57' 49\"S  73 24' 93\" W",2011-09-25,2011-10-02,"m1-19","m1","secondary","Amazon 2011"
+"10708","F","Syzeuctus sp3","Amazon 2011","-3.951383333333","-73.402588888889","90","The coordinates come from a file in https://doi.org/10.5281/zenodo.3559054 . The decimal point of the seconds seems to be missing, so it is uncertain what the actual coordinates are. These are the best guesses based on placing the decimal point in different places and seeing if the point lands on secondary forest in Google Maps. It may also be worth comparing to the pictures of the trap sites (https://doi.org/10.5281/zenodo.3559054).","PERU, Dept. of Loreto, Iquitos area, Allpahuayo 18-24.7.2011 Gómez&Sääksjärvi leg. Malaise1 Week9 30 58' 37\"S  73 25' 14\" W",2011-07-17,2011-07-24,"m1-9","m1","secondary","Amazon 2011"
+"10709","F","Syzeuctus sp3","Amazon 2008","-12.5632007","-70.0973352","280","The coordinates come from the label of a wasp separated from this sample and from https://doi.org/10.5281/zenodo.3559054. They appear to be UTM 19S (WGS84). They have been converted accordingly (or actually according to EPSG:5389, Peru96 / UTM zone 19S, at https://epsg.io, but this seems to be virtually identical). 
+Another alternative would be PSAD 56, the Provisional South American Datum 1956, instead of WGS84 (EPSG:24878 at https://epsg.io). However, its results did not seem to fit the known habitat type of the traps as well as WGS84, nor the files in https://doi.org/10.5281/zenodo.3559054.","PERU,Dept. Madre de Dios Los Amigos, 31.7-7.8.2008 I. Gómez leg. a.s.l: 280.5m Malaise 1, E:380792,164 N:8610919,14",2008-07-31,2008-08-07,"la1-11","la1","terrace","Amazon 2008"
+"10710","F","Syzeuctus sp3","Amazon 2008","-12.5632007","-70.0973352","280","The coordinates come from the label of a wasp separated from this sample and from https://doi.org/10.5281/zenodo.3559054. They appear to be UTM 19S (WGS84). They have been converted accordingly (or actually according to EPSG:5389, Peru96 / UTM zone 19S, at https://epsg.io, but this seems to be virtually identical). 
+Another alternative would be PSAD 56, the Provisional South American Datum 1956, instead of WGS84 (EPSG:24878 at https://epsg.io). However, its results did not seem to fit the known habitat type of the traps as well as WGS84, nor the files in https://doi.org/10.5281/zenodo.3559054.","PERU,Dept. Madre de Dios Los Amigos, 7-14.8.2008 I. Gómez leg. a.s.l: 280.5m Malaise 1, E:380792,164 N:8610919,14",2008-08-07,2008-08-14,"la1-12","la1","terrace","Amazon 2008"
+"10711","F","Syzeuctus sp3","Amazon 2008","-12.5632007","-70.0973352","280","The coordinates come from the label of a wasp separated from this sample and from https://doi.org/10.5281/zenodo.3559054. They appear to be UTM 19S (WGS84). They have been converted accordingly (or actually according to EPSG:5389, Peru96 / UTM zone 19S, at https://epsg.io, but this seems to be virtually identical). 
+Another alternative would be PSAD 56, the Provisional South American Datum 1956, instead of WGS84 (EPSG:24878 at https://epsg.io). However, its results did not seem to fit the known habitat type of the traps as well as WGS84, nor the files in https://doi.org/10.5281/zenodo.3559054.","PERU,Dept. Madre de Dios Los Amigos, 14-21.8.2008 I. Gómez leg. a.s.l: 280.5m Malaise 1, E:380792,164 N:8610919,14",2008-08-14,2008-08-21,"la1-13","la1","terrace","Amazon 2008"

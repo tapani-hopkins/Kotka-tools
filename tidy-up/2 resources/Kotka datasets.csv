@@ -1,0 +1,120 @@
+id,plaintext,type,location
+GX.9138,Amazon 1998 Malaise samples,misc,Amazon
+GX.9139,Amazon 2000 Malaise samples,misc,Amazon
+GX.9140,Amazon 2008 Malaise samples,misc,Amazon
+GX.9119,Amazon 2011 Malaise samples,misc,Amazon
+GX.9136,Amazon 1998,Sampling,Amazon
+GX.9116,Amazon 2000,Sampling,Amazon
+GX.9137,Amazon 2008,Sampling,Amazon
+GX.9118,Amazon 2011,Sampling,Amazon
+GX.9376,clay,site,Amazon
+GX.9379,floodplain,site,Amazon
+GX.9377,loam,site,Amazon
+GX.9375,sand,site,Amazon
+GX.9516,secondary,site,Amazon
+GX.9378,terrace,site,Amazon
+GX.9141,a1,trap,Amazon
+GX.9142,a2,trap,Amazon
+GX.9143,b1,trap,Amazon
+GX.9144,b2,trap,Amazon
+GX.9145,b3,trap,Amazon
+GX.9146,c1,trap,Amazon
+GX.9147,c2,trap,Amazon
+GX.9148,d1,trap,Amazon
+GX.9149,d2,trap,Amazon
+GX.9150,d3,trap,Amazon
+GX.9153,e1,trap,Amazon
+GX.9154,e2,trap,Amazon
+GX.9155,e3,trap,Amazon
+GX.9156,f1,trap,Amazon
+GX.9157,f2,trap,Amazon
+GX.9158,g1,trap,Amazon
+GX.9159,g2,trap,Amazon
+GX.9160,g3,trap,Amazon
+GX.9161,h1,trap,Amazon
+GX.9162,h2,trap,Amazon
+GX.9163,i1,trap,Amazon
+GX.9164,i2,trap,Amazon
+GX.9165,i3,trap,Amazon
+GX.9166,j1,trap,Amazon
+GX.9167,j2,trap,Amazon
+GX.9151,k1,trap,Amazon
+GX.9152,k2,trap,Amazon
+GX.9181,la1,trap,Amazon
+GX.9182,la2,trap,Amazon
+GX.9183,la3,trap,Amazon
+GX.9184,la4,trap,Amazon
+GX.9185,la5,trap,Amazon
+GX.9186,la6,trap,Amazon
+GX.9187,la7,trap,Amazon
+GX.9188,la8,trap,Amazon
+GX.9189,la9,trap,Amazon
+GX.9168,m1,trap,Amazon
+GX.9176,m10,trap,Amazon
+GX.9177,m11,trap,Amazon
+GX.9178,m12,trap,Amazon
+GX.9179,m13,trap,Amazon
+GX.9180,m14,trap,Amazon
+GX.9169,m2,trap,Amazon
+GX.9170,m3,trap,Amazon
+GX.9117,m4,trap,Amazon
+GX.9171,m5,trap,Amazon
+GX.9172,m6,trap,Amazon
+GX.9173,m7,trap,Amazon
+GX.9174,m8,trap,Amazon
+GX.9175,m9,trap,Amazon
+GX.2010,damaged sample,damaged,Uganda
+GX.1931,Uganda ichneumonids,family,Uganda
+GX.3753,Sorted to orders,misc,Uganda
+GX.3754,Treated TSP,misc,Uganda
+GX.1997,Uganda Malaise samples,misc,Uganda
+GX.7155,Uganda non-Malaise samples,misc,Uganda
+GX.1998,Uganda 2014-2015,Sampling,Uganda
+GX.1986,CC,site,Uganda
+GX.1995,FARM,site,Uganda
+GX.1987,HILL,site,Uganda
+GX.1990,K13,site,Uganda
+GX.1989,K15,site,Uganda
+GX.1984,K30,site,Uganda
+GX.1985,K30S,site,Uganda
+GX.1988,K31,site,Uganda
+GX.1993,R01,site,Uganda
+GX.1994,R03,site,Uganda
+GX.1991,R93,site,Uganda
+GX.1992,R98,site,Uganda
+GX.1996,TRAIL,site,Uganda
+GX.1930,Uganda ichneumonoids,superfamily,Uganda
+GX.1957,CCT1,trap,Uganda
+GX.1958,CCT2 / CCT4,trap,Uganda
+GX.1959,CCT3,trap,Uganda
+GX.1981,FARMT1,trap,Uganda
+GX.1982,FARMT2,trap,Uganda
+GX.1960,HILLT1,trap,Uganda
+GX.1961,HILLT2,trap,Uganda
+GX.1970,K13T1,trap,Uganda
+GX.1971,K13T2,trap,Uganda
+GX.1972,K13T3,trap,Uganda
+GX.1966,K15T1,trap,Uganda
+GX.1967,K15T2,trap,Uganda
+GX.1968,K15T3,trap,Uganda
+GX.1969,K15T4,trap,Uganda
+GX.1954,K30ST1 / K30ST4,trap,Uganda
+GX.1955,K30ST2,trap,Uganda
+GX.1956,K30ST3,trap,Uganda
+GX.1950,K30T1,trap,Uganda
+GX.1951,K30T2,trap,Uganda
+GX.1952,K30T3,trap,Uganda
+GX.1953,K30T4 / K30T5,trap,Uganda
+GX.1962,K31T1,trap,Uganda
+GX.1963,K31T2,trap,Uganda
+GX.1964,K31T3,trap,Uganda
+GX.1965,K31T4,trap,Uganda
+GX.1977,R01T1,trap,Uganda
+GX.1978,R01T2,trap,Uganda
+GX.1979,R03T1,trap,Uganda
+GX.1980,R03T2,trap,Uganda
+GX.1973,R93T1,trap,Uganda
+GX.1974,R93T2,trap,Uganda
+GX.1975,R98T1,trap,Uganda
+GX.1976,R98T2,trap,Uganda
+GX.1983,TRAILT1,trap,Uganda
