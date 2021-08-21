@@ -8,7 +8,7 @@
 ## Converts dates to year-month-day format.
 ## The data to be tidied up should saved as a csv file, and placed in "4 data to be tidied up".
 ## (note that Kotka downloads as Excel, this will need to be saved as csv)
-## The tidied up data is placed in "5 tidy data". Any files of the same bame are overwritten!
+## The tidied up data is placed in "5 tidy data". Any files of the same name are overwritten!
 
 
 ## Parameters
