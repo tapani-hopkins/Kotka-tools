@@ -24,10 +24,13 @@ What samples the wasps came from. Typically, you'll write down the wasp labels a
 
 Should have each wasp's sample on its own row. Case insensitive, i.e. you can write "h1-1" or "H1-1". 
 
-Check the sample list "Malaise samples.csv" in "1 Resources" if you want to see how to write the samples. If the sample is not in the sample list, will create a mostly empty row in the Kotka excel.
+Check the sample list "Malaise samples.csv" in "1 Resources" if you want to see how to write the samples. If the sample is not in this sample list, the script will create a mostly empty row in the Kotka excel.
+
+Contains a few example samples (it is OK to delete these and replace with your own). 
 
 
 ## 5 results.csv
 
 The csv file in Kotka format created by the script. This should have more or less everything, just add verbatim labels, species etc, then upload to Kotka. Overwritten whenever the script is run.
+Contains a few example specimens that match the examples in "4 Sample list.csv". Ok to delete these, or let them be overwritten when you run the script.
 
