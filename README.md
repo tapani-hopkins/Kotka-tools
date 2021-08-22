@@ -5,4 +5,4 @@ Tools for processing data downloaded from the Kotka database (FinBif). (https://
 R script for easy uploading of Ugandan and Amazonian wasps to the Kotka database. Give it the Malaise samples the wasps came from, it will create a file with almost everything you need (coordinates, dates..). This file can then be finished and uploaded to Kotka.
 
 ## tidy-up
-R script for tidying up the data. Converts dataset identifiers to human-readable format. Gets the trap names, sites and samples for data from the Malaise trapping (e.g. Amazon 2000, Uganda 2014-2015). Also tidies up the column names so they are easier to work with.
+R script for tidying up data that has been downloaded from Kotka. This makes it much easier to use in analyses. Converts dataset identifiers to human-readable format. Gets the trap names, sites and samples in easy-to-read format for data from the Ugandan and Amazonian Malaise trapping. Also tidies up the column names so they are easier to work with.
