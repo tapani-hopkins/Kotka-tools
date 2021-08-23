@@ -49,6 +49,6 @@ for(p in originals){
 	
 	# save the tidied data
 	path = paste0("5 tidy data/", p)
-	write.table(tidydata, file=path, sep=",", na="", row.names=F)
+	write.csv(tidydata, file=path, na="", row.names=F)
 }
 
